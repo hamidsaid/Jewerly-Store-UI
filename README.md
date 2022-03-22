@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Inspired By https://www.figma.com/file/OFTwuD5xt8uF3z7sA0YJ1Z/Tiger-Jewelry---Shopping-app-(Community)?node-id=60%3A37
+
 Page 1: Connect Page
 
 ![Connect](https://user-images.githubusercontent.com/63158771/159464453-3dd56298-9593-48e3-8d53-8426a38003bc.png)
